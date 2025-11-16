@@ -1,0 +1,5 @@
+python-telegram-bot
+gdown
+python-dotenv
+aiohttp
+aiofiles
